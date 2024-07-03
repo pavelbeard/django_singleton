@@ -1,4 +1,4 @@
-# django-singleton
+# django-newsingleton
 
 A simple class Singleton for create models like 'dynamic settings'
 
@@ -7,7 +7,7 @@ A simple class Singleton for create models like 'dynamic settings'
 To install the package, run:
 
 ```bash
-pip install django-singletone
+pip install django-newsingletone
 ```
 In settings.py write next stuff:
 
